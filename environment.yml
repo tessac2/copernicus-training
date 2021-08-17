@@ -8,6 +8,6 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
-  - zipfile.ZipFile
-  - IPython.display
+  - zipfile
+  - IPython
   - time
