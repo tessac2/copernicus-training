@@ -6,4 +6,4 @@ This contains a Jupyter notebook tutorial that demonstrates how to access CAMS g
 
 Select this link to run the tutorial: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/202109-CAMS-tutorial.ipynb)
 
-
+If you just want to view the tutorial without running it (i.e. without running the Python code blocks), please [see it here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/202109-CAMS-tutorial.ipynb)
