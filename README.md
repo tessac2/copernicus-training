@@ -28,3 +28,11 @@ Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://
 Jupyter notebook tutorial in Italian on the Climate Data Store (CDS), the Copernicus Knowledge Base, the CDS Toolbox and API. The tutorial was developed for a training to Italian masters students on 19 November 2020.
 
 Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-data-tutorial-italiano.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-data-tutorial-italiano.ipynb)**
+
+---
+
+## 2020-11-C3S-climatology-and-trends
+### Tutorial on analysing climatologies and trends in C3S ERA5 reanalysis data
+Jupyter notebook tutorial on accessing ERA5 data using the CDS API and calculating climatologies and trends in near-surface air temperature. The tutorial was developed for an online WEkEO training event on 12 November 2020.
+
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-climatology-and-trends.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-climatology-and-trends.ipynb)**
