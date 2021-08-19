@@ -1,6 +1,6 @@
 # Jupyter notebook tutorials for C3S and CAMS
 
-## 2021-09-CAMS-tutorial
+## 2021-09-CAMS-Air-Quality-Data-Access
 ### Tutorial on how to access and view CAMS global forecast and reanalysis data
 This contains a Jupyter notebook tutorial that demonstrates how to access CAMS global atmospheric composition forecasts and CAMS global reanalysis data, using the Atmosphere Data Store (ADS) API. It also shows how to use Python to create basic visualisations.
 
