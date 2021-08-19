@@ -2,7 +2,7 @@
 
 ## 2021-02-Copernicus-ECMWF-data-tutorial
 ### Tutorial on access and processing of C3S and CAMS data
-This is a Jupyter notebook tutorial that provides step by step instructions on how to access C3S and CAMS data from the various catalogues, how to carry-out basic processing, such as calculation of climatology and anomalies, and how to visualise the data in plots. The data includes C3S ERA5 reanalysis data of soil moisture, CAMS European Air Quality Forecast data for dust and PM10 and CAMS Global Near-Real-Time data for total Aerosol Optical Depth (AOD).
+This is a Jupyter notebook tutorial that provides step by step instructions on how to access C3S and CAMS data from the various catalogues; how to carry-out basic processing, such as calculation of climatology and anomalies; and how to visualise the data in plots. The data includes C3S ERA5 reanalysis data of soil moisture, CAMS European Air Quality Forecast data for dust and PM10 and CAMS Global Near-Real-Time data for total Aerosol Optical Depth (AOD).
 
 Select this link to run the tutorial: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-02-Copernicus-ECMWF-data-tutorial.ipynb)
 
