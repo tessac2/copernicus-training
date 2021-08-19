@@ -4,7 +4,7 @@
 ### Tutorial in Italian on data and tools provided by C3S - Tutorial sull'uso dei dati e strumenti forniti dal C3S
 Jupyter notebook tutorial in Italian on the Climate Data Store (CDS), the Copernicus Knowledge Base, the CDS Toolbox and API. The tutorial was developed for a training to Italian masters students on 19 November 2020.
 
-Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-02-Copernicus-ECMWF-data-tutorial.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-02-Copernicus-ECMWF-data-tutorial.ipynb)**
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-data-tutorial-italiano.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-data-tutorial-italiano.ipynb)**
 
 ---
 
@@ -14,9 +14,7 @@ Jupyter notebook tutorial that provides step by step instructions on how to acce
 
 The tutorial was developed for a training event to data journalists on 23 February 2021.
 
-Select this link to run the tutorial: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-02-Copernicus-ECMWF-data-tutorial.ipynb)
-
-If you just want to view the tutorial without running it (i.e. without running the Python code blocks), please **[see it here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-02-Copernicus-ECMWF-data-tutorial.ipynb)**
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-02-Copernicus-ECMWF-data-tutorial.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-02-Copernicus-ECMWF-data-tutorial.ipynb)**
 
 ---
 
@@ -26,6 +24,4 @@ Jupyter notebook tutorial that demonstrates how to access CAMS global atmospheri
 
 The tutorial was developed for a training event in September 2021 entitled, "Introduction and Access to Global Air Quality Forecasting Data and Tools". The event was organised together with the NASA Applied Remote Sensing Training (ARSET) Program. Please see more detials on this event **[here.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-and-access-global-air-quality-forecasting-data-and)**
 
-Select this link to run the tutorial: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb)
-
-If you just want to view the tutorial without running it (i.e. without running the Python code blocks), please **[see it here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb)**
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb)**
