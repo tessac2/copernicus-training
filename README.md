@@ -7,7 +7,9 @@
 Jupyter notebook tutorial in Italian on the Climate Data Store (CDS), the Copernicus Knowledge Base, the CDS Toolbox and API. The tutorial was developed for a training to Italian masters students on 19 November 2020.
 
 Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-data-tutorial-italiano.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-data-tutorial-italiano.ipynb)**
+
 ---
+
 ## 2021-02-Copernicus-ECMWF-data-tutorial
 ### Tutorial on access and processing of C3S and CAMS data
 Jupyter notebook tutorial that provides step by step instructions on how to access C3S and CAMS data from the various catalogues; how to carry-out basic processing, such as calculation of climatology and anomalies; and how to visualise the data in plots. The data includes C3S ERA5 reanalysis data of soil moisture, CAMS European Air Quality Forecast data for dust and PM10, and CAMS Global Near-Real-Time data for total Aerosol Optical Depth (AOD).
