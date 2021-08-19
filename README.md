@@ -14,7 +14,7 @@ If you just want to view the tutorial without running it (i.e. without running t
 ### Tutorial on access and visualisation of CAMS global forecast and reanalysis data
 This is a Jupyter notebook tutorial that demonstrates how to access CAMS global atmospheric composition forecasts and CAMS global reanalysis data, using the Atmosphere Data Store (ADS) API. It also shows how to use Python to create basic visualisations.
 
-The tutorial was developed for a training event in September 2021 entitled, "Introduction and Access to Global Air Quality Forecasting Data and Tools". The event was organised together with the NASA Applied Remote Sensing Training (ARSET) Program. **[Please see more detials on this event here.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-and-access-global-air-quality-forecasting-data-and)**
+The tutorial was developed for a training event in September 2021 entitled, "Introduction and Access to Global Air Quality Forecasting Data and Tools". The event was organised together with the NASA Applied Remote Sensing Training (ARSET) Program. Please see more detials on this event **[here.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-and-access-global-air-quality-forecasting-data-and)**
 
 Select this link to run the tutorial: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb)
 
