@@ -1,12 +1,15 @@
 # Jupyter notebook tutorials for C3S and CAMS
+This repository contains Jupyter notebook training material for the Copernicus Climate Change Service (C3S) and the Copernicus Atmosphere Monitoring Service (CAMS). Some notebooks were produced for specific training events, but all can be used as standalone tutorials. Below is a description of each notebook, listed in reverse chronological order. Each description includes a high level outline of the training content and objectives, describing the tools and data presented. If a notebook was developed for a particular training event, this event is also described. At the end of each description are links to run the notebook in Binder and to view a rendered version in nbviewer.
 
 ---
 
-## 2020-11-C3S-data-tutorial-italiano
-### Tutorial in Italian on data and tools provided by C3S - Tutorial sull'uso dei dati e strumenti forniti dal C3S
-Jupyter notebook tutorial in Italian on the Climate Data Store (CDS), the Copernicus Knowledge Base, the CDS Toolbox and API. The tutorial was developed for a training to Italian masters students on 19 November 2020.
+## 2021-09-CAMS-Air-Quality-Data-Access
+### Tutorial on access and visualisation of CAMS global forecast and reanalysis data
+Jupyter notebook tutorial that demonstrates how to access CAMS global atmospheric composition forecasts and CAMS global reanalysis data, using the Atmosphere Data Store (ADS) API. It also shows how to use Python to create basic visualisations.
 
-Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-data-tutorial-italiano.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-data-tutorial-italiano.ipynb)**
+The tutorial was developed for a training event in September 2021 entitled, "Introduction and Access to Global Air Quality Forecasting Data and Tools". The event was organised together with the NASA Applied Remote Sensing Training (ARSET) Program. Please see more detials on this event **[here.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-and-access-global-air-quality-forecasting-data-and)**
+
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb)**
 
 ---
 
@@ -20,10 +23,8 @@ Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://
 
 ---
 
-## 2021-09-CAMS-Air-Quality-Data-Access
-### Tutorial on access and visualisation of CAMS global forecast and reanalysis data
-Jupyter notebook tutorial that demonstrates how to access CAMS global atmospheric composition forecasts and CAMS global reanalysis data, using the Atmosphere Data Store (ADS) API. It also shows how to use Python to create basic visualisations.
+## 2020-11-C3S-data-tutorial-italiano
+### Tutorial in Italian on data and tools provided by C3S - Tutorial sull'uso dei dati e strumenti forniti dal C3S
+Jupyter notebook tutorial in Italian on the Climate Data Store (CDS), the Copernicus Knowledge Base, the CDS Toolbox and API. The tutorial was developed for a training to Italian masters students on 19 November 2020.
 
-The tutorial was developed for a training event in September 2021 entitled, "Introduction and Access to Global Air Quality Forecasting Data and Tools". The event was organised together with the NASA Applied Remote Sensing Training (ARSET) Program. Please see more detials on this event **[here.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-and-access-global-air-quality-forecasting-data-and)**
-
-Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb)**
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-data-tutorial-italiano.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-data-tutorial-italiano.ipynb)**
