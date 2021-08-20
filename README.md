@@ -9,7 +9,7 @@ Jupyter notebook tutorial that demonstrates how to access CAMS global atmospheri
 
 The tutorial was developed for a training event in September 2021 entitled, "Introduction and Access to Global Air Quality Forecasting Data and Tools". The event was organised together with the NASA Applied Remote Sensing Training (ARSET) Program. Please see more detials on this event **[here.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-and-access-global-air-quality-forecasting-data-and)**
 
-Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb)**
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or here: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-09-CAMS-Air-Quality-Data-Access.ipynb)**
 
 ---
 
