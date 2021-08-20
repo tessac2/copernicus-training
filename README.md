@@ -39,6 +39,14 @@ Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://
 
 ---
 
+## 2020-11-C3S-climate-indices
+### Tutorial on calculating and climate index with data from C3S
+Jupyter notebook tutorial on creating an index for wind chill from UERRA reanalysis data of temperature and wind speed. The tutorial was developed for an online WEkEO training event on 12 November 2020.
+
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2020-11-C3S-climate-indices.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2020-11-C3S-climate-indices.ipynb)**
+
+---
+
 ## 2020-11-C3S-climatology-and-trends
 ### Tutorial on analysing climatologies and trends in C3S ERA5 reanalysis data
 Jupyter notebook tutorial on accessing ERA5 data using the CDS API and calculating climatologies and trends in near-surface air temperature. The tutorial was developed for an online WEkEO training event on 12 November 2020.
