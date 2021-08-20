@@ -23,6 +23,14 @@ Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://
 
 ---
 
+## 2021-02-C3S-climate-extremes
+### Tutorial on C3S climate data access and analysis of climate extremes
+Jupyter notebook tutorial on accessing ERA5 data using the CDS API and analysing extreme values associated with a particular event (extreme temperature in Northern France in September 2020). The tutorial was developed for an online WEkEO training event on 12 November 2020.
+
+Run the tutorial here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/copernicus-training/HEAD?urlpath=lab/tree/2021-02-C3S-climate-extremes.ipynb), or view a **[rendered version here.](https://nbviewer.jupyter.org/github/ecmwf-projects/copernicus-training/blob/master/2021-02-C3S-climate-extremes.ipynb)**
+
+---
+
 ## 2020-11-C3S-data-tutorial-italiano
 ### Tutorial in Italian on data and tools provided by C3S - Tutorial sull'uso dei dati e strumenti forniti dal C3S
 Jupyter notebook tutorial in Italian on the Climate Data Store (CDS), the Copernicus Knowledge Base, the CDS Toolbox and API. The tutorial was developed for a training to Italian masters students on 19 November 2020.
